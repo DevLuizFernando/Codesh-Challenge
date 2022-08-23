@@ -2,7 +2,7 @@
  full stack challenge
 
 Segue tecnologias usadas, incluindo bibliotecas de importação e frameworks.
-(USUÁRIO: Codesh / SENHA: 123456) Para o acesso ao deploy no heroku.
+(USUÁRIO: Codesh / SENHA: 123456) Para o acesso ao deploy no heroku. https://challenge-codesh.herokuapp.com
 
 Python(django);
 
